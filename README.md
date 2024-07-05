@@ -1,1 +1,1 @@
-# project_1 prodigy
+# prodigy-project1-website
